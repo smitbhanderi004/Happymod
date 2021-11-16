@@ -2,20 +2,20 @@
    "Ads":[
       {
          "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"7e3beab6985f43ad94422eb9c135655f",
-         "interstitial_id":"630bacb113e649d2add642be669226c3",
-         "native_id":"4e5fc20b93dc4baebd01b4e0e3690789",
+         "banner_id":"775775cc89b94cc982467105ea58fc1f",
+         "interstitial_id":"06f10f845f90466ca236c8d34adf7755",
+         "native_id":"fcfbdfcd4e04411998952f9fbb78e1b8",
          "qureka_ads":"https://831.win.qureka.com/",
          "status":"true",
          "splash_ads":"false"
       },
       {
          "app_id":"",
-         "banner_id":"591940372224362_592513362167063",
-         "interstitial_id":"591940372224362_591940855557647",
-          "interstitial_id1":"591940372224362_592513595500373",
-          "interstitial_id2":"591940372224362_592513752167024",
-         "native_id":"591940372224362_592513892167010",
+         "banner_id":"957561971503822_958077378118948",
+         "interstitial_id":"957561971503822_957562294837123",
+          "interstitial_id1":"957561971503822_957562294837123",
+          "interstitial_id2":"957561971503822_957562294837123",
+         "native_id":"957561971503822_958077418118944",
          "native_banner_id":"",
          "rectangle_banner_id":"",
          "status":"true",
