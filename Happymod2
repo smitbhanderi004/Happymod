@@ -2,9 +2,9 @@
    "Ads":[
       {
          "app_id":"ca-app-pub-3940256099942544~3347511711",
-         "banner_id":"3d4d891901f44f2494aaa7ec90d7edd8",
-         "interstitial_id":"b7cf30c8f1954c11a5bcdf5fcdeef6f2",
-         "native_id":"fdbbc839f33f4ab8af057e28f622c631",
+         "banner_id":"",
+         "interstitial_id":"",
+         "native_id":"",
          "qureka_ads":"https://831.win.qureka.com/",
          "status":"true",
          "splash_ads":"false"
